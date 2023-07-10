@@ -1,0 +1,86 @@
+
+.main-top {
+    margin-left: -30rem;
+    width: 199.4rem ;
+    height: 74.9rem;
+    display: flex;
+    align-items: center;
+    background-color:#DCEAF5;
+    gap: 10.2rem;
+   
+}
+.main-heading {
+    
+    padding-left: 32rem;
+   
+}
+.johnson {
+    width: 56rem;
+    color: #394149;
+    
+}
+.avatar-johnson{
+    display: flex;
+    align-items: center;
+}
+.avatar{
+    display: flex;
+    gap: 2.4rem ;
+    color: #394149;
+}
+.main-h1{
+    font-size: 6,4rem;
+    font-weight: 600;
+    font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+    line-height: 7.2rem;
+    letter-spacing: -3%;
+    color: #1D3444;
+}   
+    
+
+.icon-more {
+    display: flex;
+    gap: 5px;
+    color: #F58A07;
+}
+
+.main-right-img {
+    width: 62.1rem;
+    height: 49.3rem;
+    border-radius: 2rem;
+}
+
+.main-middle-heading {
+    font-size: 4.8rem;
+    font-weight: 600;
+    font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+    line-height: 5.6rem;
+    letter-spacing: -3%;
+    color: #1D3444;
+    padding-top: 12.8rem;
+    padding-bottom: 6.4rem;
+
+}
+.section {
+    display: flex;
+    justify-content: center;
+    
+}
+.post {
+    width: 40rem;
+    height: 50.7rem;
+    background-color: #EDF7FF;
+    margin: 4rem;
+}
+.post-content{
+    padding: 3.2rem ;
+}
+.post-heading{
+    padding-bottom: 1.6rem;
+    font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+    font-size: 2.4rem;
+    font-weight: 500;
+    line-height: 3.6rem;
+    letter-spacing: -3%;
+    color: #1D3444;
+}

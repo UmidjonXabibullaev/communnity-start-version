@@ -1,0 +1,101 @@
+
+
+.main-top {
+    display: flex;
+    padding-top: 10.8rem;
+}
+.main-top-right {
+   margin-right: auto;
+   font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+   font-size: 5.4rem;
+   font-weight: 600;
+   line-height: 7.2rem;
+   letter-spacing: -3%;
+   color: #1D3444;
+}
+.main-top-right-content  {
+    padding-top: 6.4rem ;
+    font-weight: 500;
+    font-size: 1.8rem;
+    line-height: 3rem;
+}
+.main-top-right-content h3{
+    font-size: 2.4rem ;
+    letter-spacing: -3%;
+}
+.main-top-left {
+    padding-top: 12.4rem ;
+}
+.main-middle {
+
+    width: 128rem;
+    height: 44rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 13.2rem;
+    font-family: 'Poppins' ,Arial, Helvetica, sans-serif;
+    background-color:rgba(193, 228, 255, 0.3);
+    padding: 6.8rem;
+
+}
+.middle-heading h2 {
+    margin-right: 9.2rem;
+    padding-bottom: 4rem;
+    color: #0D1317;
+    font-size: 2.4rem;
+    font-weight: 500;
+    line-height: 3rem;
+    letter-spacing: -3%;
+    
+}
+.middle-content  {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 2.8rem;
+}
+.main-apply {
+    margin-top: 12.8rem;
+}
+.for-name input {
+    width: 62.8rem;
+    height: 5.4rem;
+    border-radius: 2.7rem;
+    align-items: left;
+    padding-left:  3.2rem; 
+    color: rgba(210, 218, 237, 0.17);
+    border: 3px solid rgba(210, 218, 237, 0.17);
+    margin-bottom: 2.4rem;
+}
+.for-contact input {
+    width: 62.8rem;
+    height: 5.4rem;
+    border-radius: 2.7rem;
+    align-items: left;
+    padding-left:  3.2rem; 
+    color: rgba(210, 218, 237, 0.17);
+    border: 3px solid rgba(210, 218, 237, 0.17);
+    margin-bottom: 2.4rem;
+}
+.for-interest input {
+    width: 128rem;
+    height: 21.5rem;
+    border-radius: 2.7rem;
+    padding-left: 3.2rem;
+
+    color: rgba(210, 218, 237, 0.17);
+    border: 3px solid rgba(210, 218, 237, 0.17);
+    margin-bottom: 2.4rem;
+
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3.1rem;
+    width: 12rem;
+    height: 5.4rem;
+    background-color: rgba(245, 138, 7, 1);
+    border: 3px solid rgba(245, 138, 7, 1) ;
+    color: white;
+}

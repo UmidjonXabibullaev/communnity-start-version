@@ -1,0 +1,35 @@
+
+
+.top-img {
+    padding: 11.2rem 0rem;
+}
+.inner-container{
+    padding-left: 30.5rem ;
+    padding-right: 30.5rem;
+}
+.blog-content{
+    display: flex;
+    flex-direction: column;
+    
+}
+.avatar-johnson {
+    display: flex;
+    padding-bottom: 2.4rem;
+
+}
+
+.data {
+    padding-left: 2.4rem; 
+}
+.blog-h1 {
+    font-family: 'Poppins' , Arial, Helvetica, sans-serif ;
+    font-weight: 600;
+    font-size: 6.4rem;
+    line-height: 7.2rem;
+    letter-spacing: -3%;
+    padding: 3.2rem 0rem;
+    color: #1D3444;
+}
+.blog-text {
+    padding-bottom: 1.6rem;
+}
